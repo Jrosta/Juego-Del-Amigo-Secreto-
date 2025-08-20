@@ -19,7 +19,7 @@ Este es un simple y divertido juego de Amigo Secreto (o Amigo Invisible) desarro
 
 1.  **Clona este repositorio:**
     ```bash
-    git clone [https://github.com/Jrosta/Juego-Del-Amigo-Secreto-](https://github.com/Jrosta/Juego-Del-Amigo-Secreto-)
+    git clone https://github.com/Jrosta/Juego-Del-Amigo-Secreto-
     ```
 2.  **Abre el archivo:**
     Simplemente abre el archivo `index.html` en tu navegador web.
@@ -30,6 +30,9 @@ Este es un simple y divertido juego de Amigo Secreto (o Amigo Invisible) desarro
 5.  **Revisa el resultado:**
     El nombre del amigo sorteado se mostrará en la página. La lista de participantes se actualizará automáticamente.
 
+---
+### 🌐 Demo Web
+[Web Sorteo del Amigo Secreto](https://jrosta.github.io/Juego-Del-Amigo-Secreto-/)
 ---
 
 ### 🛠️ Tecnologías utilizadas
@@ -42,6 +45,6 @@ Este es un simple y divertido juego de Amigo Secreto (o Amigo Invisible) desarro
 
 ### 👤 Autor
 
-* **Jrosta** - (https://github.com/Jrosta)
+* **Jrosta** - https://github.com/Jrosta
 
 ---
