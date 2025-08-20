@@ -31,8 +31,10 @@ Este es un simple y divertido juego de Amigo Secreto (o Amigo Invisible) desarro
     El nombre del amigo sorteado se mostrará en la página. La lista de participantes se actualizará automáticamente.
 
 ---
+
 ### 🌐 Demo Web
 [Web Sorteo del Amigo Secreto](https://jrosta.github.io/Juego-Del-Amigo-Secreto-/)
+
 ---
 
 ### 🛠️ Tecnologías utilizadas
