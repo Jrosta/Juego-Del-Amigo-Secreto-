@@ -19,7 +19,7 @@ Este es un simple y divertido juego de Amigo Secreto (o Amigo Invisible) desarro
 
 1.  **Clona este repositorio:**
     ```bash
-    git clone [https://github.com/tu-usuario/nombre-del-repo.git](https://github.com/tu-usuario/nombre-del-repo.git)
+    git clone [https://github.com/Jrosta/Juego-Del-Amigo-Secreto-](https://github.com/Jrosta/Juego-Del-Amigo-Secreto-)
     ```
 2.  **Abre el archivo:**
     Simplemente abre el archivo `index.html` en tu navegador web.
